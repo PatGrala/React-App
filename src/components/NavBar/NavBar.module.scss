@@ -1,0 +1,33 @@
+﻿@import '../../styles/settings.scss';
+
+nav {
+    padding: 5px 0;
+    color: white;
+    font-size: 24px;
+    background-color: darken($color-dark, 3%);
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon i {
+    color: white;
+    margin: 10px 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px 0;
+}
+
+ul li {
+    display: inline;
+}
+
+ul a {
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+}

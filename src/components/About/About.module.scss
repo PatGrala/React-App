@@ -1,0 +1,11 @@
+﻿@import '../../styles/settings.scss';
+
+
+.about {
+    padding: $base-size;
+}
+
+.description {
+    padding: ($base-size * 2) 0;
+    font-weight: normal;
+}
