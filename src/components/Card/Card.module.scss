@@ -23,3 +23,12 @@
 .active{
   color: $color-warning
 }
+
+.remove_btn {
+  color: $color-dark;
+  cursor: pointer;
+  border: none;
+  background-color: inherit;
+  font-size: 20px;
+}
+
